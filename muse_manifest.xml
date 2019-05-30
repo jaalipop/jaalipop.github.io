@@ -1,0 +1,1638 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="ftp://floate.com" ftp_rootfolder="//public_html/design" exportTarget="FTP" domain="design.floate.com" resolutions="1x" timestamp="1548384772524">
+  <folder name="css">
+    <file name="site_global.css" crc="109733568"/>
+    <file name="master_a-master.css" crc="493128365" ref="other:bigchampagne:design--motion:levis-banners:index:banda-hitch:umpqua-bank-banners:microsoft-banners:illustration:truvia-banners:movies-anywhere-banners:car-toys-banners:uhhc-banners:safeco-hompage-ui:engadget-windows-phone-comps:charterful"/>
+    <file name="other.css" crc="3801234609" ref="other"/>
+    <file name="bigchampagne.css" crc="3922893973" ref="bigchampagne"/>
+    <file name="design--motion.css" crc="4215629006" ref="design--motion"/>
+    <file name="levis-banners.css" crc="309869725" ref="levis-banners"/>
+    <file name="index.css" crc="3874356982" ref="index"/>
+    <file name="banda-hitch.css" crc="505846139" ref="banda-hitch"/>
+    <file name="umpqua-bank-banners.css" crc="354190387" ref="umpqua-bank-banners"/>
+    <file name="microsoft-banners.css" crc="11814744" ref="microsoft-banners"/>
+    <file name="illustration.css" crc="3867865636" ref="illustration"/>
+    <file name="nomq_preview_master_a-master.css" crc="499634983" ref="other:bigchampagne:design--motion:levis-banners:index:banda-hitch:umpqua-bank-banners:microsoft-banners:illustration:truvia-banners:movies-anywhere-banners:car-toys-banners:uhhc-banners:safeco-hompage-ui:engadget-windows-phone-comps:charterful"/>
+    <file name="nomq_other.css" crc="495227355" ref="other"/>
+    <file name="nomq_bigchampagne.css" crc="3871995127" ref="bigchampagne"/>
+    <file name="nomq_design--motion.css" crc="4217835215" ref="design--motion"/>
+    <file name="nomq_levis-banners.css" crc="4247752469" ref="levis-banners"/>
+    <file name="nomq_index.css" crc="362322817" ref="index"/>
+    <file name="nomq_banda-hitch.css" crc="3830164165" ref="banda-hitch"/>
+    <file name="nomq_umpqua-bank-banners.css" crc="206576822" ref="umpqua-bank-banners"/>
+    <file name="nomq_microsoft-banners.css" crc="293638296" ref="microsoft-banners"/>
+    <file name="nomq_illustration.css" crc="255703917" ref="illustration"/>
+    <file name="truvia-banners.css" crc="4104506391" ref="truvia-banners"/>
+    <file name="nomq_truvia-banners.css" crc="3916211493" ref="truvia-banners"/>
+    <file name="movies-anywhere-banners.css" crc="487764562" ref="movies-anywhere-banners"/>
+    <file name="nomq_movies-anywhere-banners.css" crc="57770720" ref="movies-anywhere-banners"/>
+    <file name="car-toys-banners.css" crc="4012390897" ref="car-toys-banners"/>
+    <file name="nomq_car-toys-banners.css" crc="369269275" ref="car-toys-banners"/>
+    <file name="uhhc-banners.css" crc="121415274" ref="uhhc-banners"/>
+    <file name="nomq_uhhc-banners.css" crc="4040430162" ref="uhhc-banners"/>
+    <file name="safeco-hompage-ui.css" crc="481171559" ref="safeco-hompage-ui"/>
+    <file name="nomq_safeco-hompage-ui.css" crc="154269341" ref="safeco-hompage-ui"/>
+    <file name="engadget-windows-phone-comps.css" crc="425003918" ref="engadget-windows-phone-comps"/>
+    <file name="nomq_engadget-windows-phone-comps.css" crc="358199220" ref="engadget-windows-phone-comps"/>
+    <file name="charterful.css" crc="3949049876" ref="charterful"/>
+    <file name="nomq_charterful.css" crc="117631632" ref="charterful"/>
+  </folder>
+  <folder name="assets">
+    <file name="_tru_banners_300x250_090413_v1_cta1_r9.swf" crc="177782744" seo="true" mt="1379010878000"/>
+    <file name="_tru_banners_300x250_090413_v1_cta2_r9.swf" crc="177782744" seo="true" mt="1379010878000"/>
+    <file name="jacobpaulferguson_resume_2018.pdf" crc="255904439" seo="true" mt="1469484072000"/>
+    <file name="project-strategize_300x250.mp4" crc="449260375" seo="true" mt="1524866979000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:design--motion:illustration:other:banda-hitch:microsoft-banners:levis-banners:umpqua-bank-banners:bigchampagne:truvia-banners:car-toys-banners:uhhc-banners:movies-anywhere-banners:engadget-windows-phone-comps:safeco-hompage-ui:charterful"/>
+    <file name="museutils.js" crc="3803043152" ref="index:design--motion:illustration:other:banda-hitch:microsoft-banners:levis-banners:umpqua-bank-banners:bigchampagne:truvia-banners:car-toys-banners:uhhc-banners:movies-anywhere-banners:engadget-windows-phone-comps:safeco-hompage-ui:charterful"/>
+    <file name="whatinput.js" crc="86476730" ref="index:design--motion:illustration:other:banda-hitch:microsoft-banners:levis-banners:umpqua-bank-banners:bigchampagne:truvia-banners:car-toys-banners:uhhc-banners:movies-anywhere-banners:engadget-windows-phone-comps:safeco-hompage-ui:charterful"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:design--motion:illustration:other:banda-hitch:microsoft-banners:levis-banners:umpqua-bank-banners:bigchampagne:truvia-banners:car-toys-banners:uhhc-banners:movies-anywhere-banners:engadget-windows-phone-comps:safeco-hompage-ui:charterful"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:design--motion:illustration:other:banda-hitch:microsoft-banners:levis-banners:umpqua-bank-banners:bigchampagne:truvia-banners:car-toys-banners:uhhc-banners:movies-anywhere-banners:engadget-windows-phone-comps:safeco-hompage-ui:charterful"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="design--motion"/>
+    <file name="require.js" crc="4157109226" ref="index:design--motion:illustration:other:banda-hitch:microsoft-banners:levis-banners:umpqua-bank-banners:bigchampagne:truvia-banners:car-toys-banners:uhhc-banners:movies-anywhere-banners:engadget-windows-phone-comps:safeco-hompage-ui:charterful"/>
+    <file name="webpro.js" crc="242022427" ref="illustration:banda-hitch:microsoft-banners:levis-banners:umpqua-bank-banners"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="illustration:banda-hitch"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="illustration:banda-hitch"/>
+    <file name="touchswipe.js" crc="4066113679" ref="illustration:banda-hitch"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="microsoft-banners:levis-banners:umpqua-bank-banners"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:design--motion:illustration:other:banda-hitch:microsoft-banners:levis-banners:umpqua-bank-banners:bigchampagne:truvia-banners:car-toys-banners:uhhc-banners:movies-anywhere-banners:engadget-windows-phone-comps:safeco-hompage-ui:charterful"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:design--motion:illustration:other:banda-hitch:microsoft-banners:levis-banners:umpqua-bank-banners:bigchampagne:truvia-banners:car-toys-banners:uhhc-banners:movies-anywhere-banners:engadget-windows-phone-comps:safeco-hompage-ui:charterful"/>
+    <file name="u158_states.png" crc="3908076517" ref="index:design--motion:illustration:other:banda-hitch:microsoft-banners:levis-banners:umpqua-bank-banners:bigchampagne:truvia-banners:car-toys-banners:uhhc-banners:movies-anywhere-banners:engadget-windows-phone-comps:safeco-hompage-ui:charterful"/>
+    <file name="u158_states-r.png" crc="373251038" ref="index:design--motion:illustration:other:banda-hitch:microsoft-banners:levis-banners:umpqua-bank-banners:bigchampagne:truvia-banners:car-toys-banners:uhhc-banners:movies-anywhere-banners:engadget-windows-phone-comps:safeco-hompage-ui:charterful"/>
+    <file name="u158_states-m.png" crc="3908076517" ref="index:design--motion:illustration:other:banda-hitch:microsoft-banners:levis-banners:umpqua-bank-banners:bigchampagne:truvia-banners:car-toys-banners:uhhc-banners:movies-anywhere-banners:engadget-windows-phone-comps:safeco-hompage-ui:charterful"/>
+    <file name="u158_states-a.png" crc="3989371268" ref="index:design--motion:illustration:other:banda-hitch:microsoft-banners:levis-banners:umpqua-bank-banners:bigchampagne:truvia-banners:car-toys-banners:uhhc-banners:movies-anywhere-banners:engadget-windows-phone-comps:safeco-hompage-ui:charterful"/>
+    <file name="u165_states.png" crc="448821448" ref="index:design--motion:illustration:other:banda-hitch:microsoft-banners:levis-banners:umpqua-bank-banners:bigchampagne:truvia-banners:car-toys-banners:uhhc-banners:movies-anywhere-banners:engadget-windows-phone-comps:safeco-hompage-ui:charterful"/>
+    <file name="u165_states-r.png" crc="4093615820" ref="index:design--motion:illustration:other:banda-hitch:microsoft-banners:levis-banners:umpqua-bank-banners:bigchampagne:truvia-banners:car-toys-banners:uhhc-banners:movies-anywhere-banners:engadget-windows-phone-comps:safeco-hompage-ui:charterful"/>
+    <file name="u165_states-m.png" crc="448821448" ref="index:design--motion:illustration:other:banda-hitch:microsoft-banners:levis-banners:umpqua-bank-banners:bigchampagne:truvia-banners:car-toys-banners:uhhc-banners:movies-anywhere-banners:engadget-windows-phone-comps:safeco-hompage-ui:charterful"/>
+    <file name="u165_states-a.png" crc="4185608389" ref="index:design--motion:illustration:other:banda-hitch:microsoft-banners:levis-banners:umpqua-bank-banners:bigchampagne:truvia-banners:car-toys-banners:uhhc-banners:movies-anywhere-banners:engadget-windows-phone-comps:safeco-hompage-ui:charterful"/>
+    <file name="u171_states.png" crc="232572658" ref="index:design--motion:illustration:other:banda-hitch:microsoft-banners:levis-banners:umpqua-bank-banners:bigchampagne:truvia-banners:car-toys-banners:uhhc-banners:movies-anywhere-banners:engadget-windows-phone-comps:safeco-hompage-ui:charterful"/>
+    <file name="u171_states-r.png" crc="252408111" ref="index:design--motion:illustration:other:banda-hitch:microsoft-banners:levis-banners:umpqua-bank-banners:bigchampagne:truvia-banners:car-toys-banners:uhhc-banners:movies-anywhere-banners:engadget-windows-phone-comps:safeco-hompage-ui:charterful"/>
+    <file name="u171_states-m.png" crc="232572658" ref="index:design--motion:illustration:other:banda-hitch:microsoft-banners:levis-banners:umpqua-bank-banners:bigchampagne:truvia-banners:car-toys-banners:uhhc-banners:movies-anywhere-banners:engadget-windows-phone-comps:safeco-hompage-ui:charterful"/>
+    <file name="u171_states-a.png" crc="3949504237" ref="index:design--motion:illustration:other:banda-hitch:microsoft-banners:levis-banners:umpqua-bank-banners:bigchampagne:truvia-banners:car-toys-banners:uhhc-banners:movies-anywhere-banners:engadget-windows-phone-comps:safeco-hompage-ui:charterful"/>
+    <file name="icecreamdrip2.png" crc="4196448575" seo="true" ref="index:design--motion:illustration:other:banda-hitch:microsoft-banners:levis-banners:umpqua-bank-banners:bigchampagne:truvia-banners:car-toys-banners:uhhc-banners:movies-anywhere-banners:engadget-windows-phone-comps:safeco-hompage-ui:charterful">
+      <caption webpage="umpqua-bank-banners" alt=""/>
+      <caption webpage="umpqua-bank-banners" alt=""/>
+      <caption webpage="umpqua-bank-banners" alt=""/>
+      <caption webpage="umpqua-bank-banners" alt=""/>
+      <caption webpage="umpqua-bank-banners" alt=""/>
+      <caption webpage="bigchampagne" alt=""/>
+      <caption webpage="bigchampagne" alt=""/>
+      <caption webpage="bigchampagne" alt=""/>
+      <caption webpage="bigchampagne" alt=""/>
+      <caption webpage="bigchampagne" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="car-toys-banners" alt=""/>
+      <caption webpage="car-toys-banners" alt=""/>
+      <caption webpage="car-toys-banners" alt=""/>
+      <caption webpage="car-toys-banners" alt=""/>
+      <caption webpage="car-toys-banners" alt=""/>
+      <caption webpage="design--motion" alt=""/>
+      <caption webpage="design--motion" alt=""/>
+      <caption webpage="design--motion" alt=""/>
+      <caption webpage="design--motion" alt=""/>
+      <caption webpage="design--motion" alt=""/>
+      <caption webpage="charterful" alt=""/>
+      <caption webpage="charterful" alt=""/>
+      <caption webpage="charterful" alt=""/>
+      <caption webpage="charterful" alt=""/>
+      <caption webpage="charterful" alt=""/>
+      <caption webpage="safeco-hompage-ui" alt=""/>
+      <caption webpage="safeco-hompage-ui" alt=""/>
+      <caption webpage="safeco-hompage-ui" alt=""/>
+      <caption webpage="safeco-hompage-ui" alt=""/>
+      <caption webpage="safeco-hompage-ui" alt=""/>
+      <caption webpage="truvia-banners" alt=""/>
+      <caption webpage="truvia-banners" alt=""/>
+      <caption webpage="truvia-banners" alt=""/>
+      <caption webpage="truvia-banners" alt=""/>
+      <caption webpage="truvia-banners" alt=""/>
+      <caption webpage="truvia-bank-banners" alt=""/>
+      <caption webpage="truvia-bank-banners" alt=""/>
+      <caption webpage="truvia-bank-banners" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="movies-anywhere-banners" alt=""/>
+      <caption webpage="movies-anywhere-banners" alt=""/>
+      <caption webpage="movies-anywhere-banners" alt=""/>
+      <caption webpage="movies-anywhere-banners" alt=""/>
+      <caption webpage="movies-anywhere-banners" alt=""/>
+      <caption webpage="microsoft-banners" alt=""/>
+      <caption webpage="microsoft-banners" alt=""/>
+      <caption webpage="microsoft-banners" alt=""/>
+      <caption webpage="microsoft-banners" alt=""/>
+      <caption webpage="microsoft-banners" alt=""/>
+      <caption webpage="engadget-windows-phone-comps" alt=""/>
+      <caption webpage="engadget-windows-phone-comps" alt=""/>
+      <caption webpage="engadget-windows-phone-comps" alt=""/>
+      <caption webpage="engadget-windows-phone-comps" alt=""/>
+      <caption webpage="engadget-windows-phone-comps" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="levis-banners" alt=""/>
+      <caption webpage="levis-banners" alt=""/>
+      <caption webpage="levis-banners" alt=""/>
+      <caption webpage="levis-banners" alt=""/>
+      <caption webpage="levis-banners" alt=""/>
+      <caption webpage="uhhc-banners" alt=""/>
+      <caption webpage="uhhc-banners" alt=""/>
+      <caption webpage="uhhc-banners" alt=""/>
+      <caption webpage="uhhc-banners" alt=""/>
+      <caption webpage="uhhc-banners" alt=""/>
+    </file>
+    <file name="icecreamdrip.png" crc="4142135057" seo="true" ref="index:design--motion:illustration:other:banda-hitch:microsoft-banners:levis-banners:umpqua-bank-banners:bigchampagne:truvia-banners:car-toys-banners:uhhc-banners:movies-anywhere-banners:engadget-windows-phone-comps:safeco-hompage-ui:charterful">
+      <caption webpage="umpqua-bank-banners" alt=""/>
+      <caption webpage="umpqua-bank-banners" alt=""/>
+      <caption webpage="umpqua-bank-banners" alt=""/>
+      <caption webpage="umpqua-bank-banners" alt=""/>
+      <caption webpage="umpqua-bank-banners" alt=""/>
+      <caption webpage="bigchampagne" alt=""/>
+      <caption webpage="bigchampagne" alt=""/>
+      <caption webpage="bigchampagne" alt=""/>
+      <caption webpage="bigchampagne" alt=""/>
+      <caption webpage="bigchampagne" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="car-toys-banners" alt=""/>
+      <caption webpage="car-toys-banners" alt=""/>
+      <caption webpage="car-toys-banners" alt=""/>
+      <caption webpage="car-toys-banners" alt=""/>
+      <caption webpage="car-toys-banners" alt=""/>
+      <caption webpage="design--motion" alt=""/>
+      <caption webpage="design--motion" alt=""/>
+      <caption webpage="design--motion" alt=""/>
+      <caption webpage="design--motion" alt=""/>
+      <caption webpage="design--motion" alt=""/>
+      <caption webpage="charterful" alt=""/>
+      <caption webpage="charterful" alt=""/>
+      <caption webpage="charterful" alt=""/>
+      <caption webpage="charterful" alt=""/>
+      <caption webpage="charterful" alt=""/>
+      <caption webpage="safeco-hompage-ui" alt=""/>
+      <caption webpage="safeco-hompage-ui" alt=""/>
+      <caption webpage="safeco-hompage-ui" alt=""/>
+      <caption webpage="safeco-hompage-ui" alt=""/>
+      <caption webpage="safeco-hompage-ui" alt=""/>
+      <caption webpage="truvia-banners" alt=""/>
+      <caption webpage="truvia-banners" alt=""/>
+      <caption webpage="truvia-banners" alt=""/>
+      <caption webpage="truvia-banners" alt=""/>
+      <caption webpage="truvia-banners" alt=""/>
+      <caption webpage="truvia-bank-banners" alt=""/>
+      <caption webpage="truvia-bank-banners" alt=""/>
+      <caption webpage="truvia-bank-banners" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="movies-anywhere-banners" alt=""/>
+      <caption webpage="movies-anywhere-banners" alt=""/>
+      <caption webpage="movies-anywhere-banners" alt=""/>
+      <caption webpage="movies-anywhere-banners" alt=""/>
+      <caption webpage="movies-anywhere-banners" alt=""/>
+      <caption webpage="microsoft-banners" alt=""/>
+      <caption webpage="microsoft-banners" alt=""/>
+      <caption webpage="microsoft-banners" alt=""/>
+      <caption webpage="microsoft-banners" alt=""/>
+      <caption webpage="microsoft-banners" alt=""/>
+      <caption webpage="engadget-windows-phone-comps" alt=""/>
+      <caption webpage="engadget-windows-phone-comps" alt=""/>
+      <caption webpage="engadget-windows-phone-comps" alt=""/>
+      <caption webpage="engadget-windows-phone-comps" alt=""/>
+      <caption webpage="engadget-windows-phone-comps" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="levis-banners" alt=""/>
+      <caption webpage="levis-banners" alt=""/>
+      <caption webpage="levis-banners" alt=""/>
+      <caption webpage="levis-banners" alt=""/>
+      <caption webpage="levis-banners" alt=""/>
+      <caption webpage="uhhc-banners" alt=""/>
+      <caption webpage="uhhc-banners" alt=""/>
+      <caption webpage="uhhc-banners" alt=""/>
+      <caption webpage="uhhc-banners" alt=""/>
+      <caption webpage="uhhc-banners" alt=""/>
+    </file>
+    <file name="titledrip2.jpg" crc="247990341" seo="true" ref="banda-hitch:microsoft-banners:umpqua-bank-banners:bigchampagne:engadget-windows-phone-comps:safeco-hompage-ui:charterful">
+      <caption webpage="umpqua-bank-banners" alt=""/>
+      <caption webpage="umpqua-bank-banners" alt=""/>
+      <caption webpage="umpqua-bank-banners" alt=""/>
+      <caption webpage="umpqua-bank-banners" alt=""/>
+      <caption webpage="umpqua-bank-banners" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="truvia-bank-banners" alt=""/>
+      <caption webpage="truvia-bank-banners" alt=""/>
+      <caption webpage="truvia-bank-banners" alt=""/>
+      <caption webpage="microsoft-banners" alt=""/>
+      <caption webpage="microsoft-banners" alt=""/>
+      <caption webpage="microsoft-banners" alt=""/>
+      <caption webpage="microsoft-banners" alt=""/>
+      <caption webpage="microsoft-banners" alt=""/>
+      <caption webpage="safeco-hompage-ui" alt=""/>
+      <caption webpage="safeco-hompage-ui" alt=""/>
+      <caption webpage="safeco-hompage-ui" alt=""/>
+      <caption webpage="safeco-hompage-ui" alt=""/>
+      <caption webpage="safeco-hompage-ui" alt=""/>
+      <caption webpage="engadget-windows-phone-comps" alt=""/>
+      <caption webpage="engadget-windows-phone-comps" alt=""/>
+      <caption webpage="engadget-windows-phone-comps" alt=""/>
+      <caption webpage="engadget-windows-phone-comps" alt=""/>
+      <caption webpage="engadget-windows-phone-comps" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="charterful" alt=""/>
+      <caption webpage="charterful" alt=""/>
+      <caption webpage="charterful" alt=""/>
+      <caption webpage="charterful" alt=""/>
+      <caption webpage="charterful" alt=""/>
+      <caption webpage="bigchampagne" alt=""/>
+      <caption webpage="bigchampagne" alt=""/>
+      <caption webpage="bigchampagne" alt=""/>
+      <caption webpage="bigchampagne" alt=""/>
+      <caption webpage="bigchampagne" alt=""/>
+      <caption webpage="design--motion" alt=""/>
+      <caption webpage="design--motion" alt=""/>
+      <caption webpage="design--motion" alt=""/>
+      <caption webpage="levis-banners" alt=""/>
+      <caption webpage="levis-banners" alt=""/>
+      <caption webpage="levis-banners" alt=""/>
+    </file>
+    <file name="bandahitch3_bug.jpg" crc="3770249094" ref="design--motion">
+      <caption webpage="design--motion" alt=""/>
+    </file>
+    <file name="levis_bug.jpg" crc="4207722881" ref="design--motion">
+      <caption webpage="design--motion" alt=""/>
+    </file>
+    <file name="u553_states.png" crc="145316941" ref="design--motion"/>
+    <file name="u553_states-r.png" crc="272299598" ref="design--motion"/>
+    <file name="u556_states.png" crc="46599265" ref="design--motion"/>
+    <file name="u556_states-r.png" crc="61238189" ref="design--motion"/>
+    <file name="icecreamdrip2-crop-u1084.png" crc="399710024" seo="true" ref="design--motion">
+      <caption webpage="design--motion" alt=""/>
+    </file>
+    <file name="u1804_states.png" crc="4118968927" ref="design--motion"/>
+    <file name="u1804_states-r.png" crc="3796988422" ref="design--motion"/>
+    <file name="truvia_bug.jpg" crc="100042009" ref="design--motion">
+      <caption webpage="design--motion" alt=""/>
+    </file>
+    <file name="u1801_states.png" crc="278272888" ref="design--motion"/>
+    <file name="u1801_states-r.png" crc="406988584" ref="design--motion"/>
+    <file name="bigchampagne_bug.jpg" crc="24777792" ref="design--motion">
+      <caption webpage="design--motion" alt=""/>
+    </file>
+    <file name="u626_states.png" crc="391056746" ref="design--motion"/>
+    <file name="u626_states-r.png" crc="4108271517" ref="design--motion"/>
+    <file name="u623_states.png" crc="4228155539" ref="design--motion"/>
+    <file name="u623_states-r.png" crc="403211303" ref="design--motion"/>
+    <file name="u717-6.png" crc="3870156809" ref="design--motion"/>
+    <file name="atmost3_cover1.jpg" crc="17517617" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="cigar.jpg" crc="3833040609" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="ee_forest_splash.jpg" crc="71471306" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="ee_temppromo.jpg" crc="3974474993" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="hairs2.jpg" crc="536600737" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="hidinginthepine.jpg" crc="434189620" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="katamarilovebutt.jpg" crc="17460122" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="nosleep2.jpg" crc="3909327929" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="peacock.jpg" crc="481821080" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaiapple.jpg" crc="418079977" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaiartichoke.jpg" crc="4109493869" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaiasparagus.jpg" crc="147473980" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaicactus.jpg" crc="136070430" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaipineapple.jpg" crc="418646249" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaispinach.jpg" crc="4016722524" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaitomato.jpg" crc="4042058746" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="queenofhearts.jpg" crc="4263821285" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="rose_face.jpg" crc="229526404" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="atmost3_cover1-crop-u3655.jpg" crc="4058838437" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="ee_temppromo-crop-u3922.jpg" crc="3789331896" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="katamarilovebutt-crop-u3982.jpg" crc="200800127" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaiapple-crop-u4042.jpg" crc="241122926" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaicactus-crop-u4102.jpg" crc="425594197" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaitomato-crop-u4162.jpg" crc="3794090968" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="cigar-crop-u3882.jpg" crc="3795664662" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="hairs2-crop-u3942.jpg" crc="436384255" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="nosleep2-crop-u4002.jpg" crc="107785286" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaiartichoke-crop-u4062.jpg" crc="3867544320" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaipineapple-crop-u4122.jpg" crc="4244534541" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="queenofhearts-crop-u4182.jpg" crc="3928217237" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="ee_forest_splash-crop-u3902.jpg" crc="200327232" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="hidinginthepine-crop-u3962.jpg" crc="374032978" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="peacock-crop-u4022.jpg" crc="4028893926" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaiasparagus-crop-u4082.jpg" crc="480952160" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaispinach-crop-u4142.jpg" crc="4119555319" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="rose_face-crop-u4202.jpg" crc="4134591480" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="illustration:banda-hitch"/>
+    <file name="selfport2018.png" crc="308265039" seo="true" ref="other">
+      <caption webpage="other" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="other" alt=""/>
+    </file>
+    <file name="u1766-11.png" crc="495526258" ref="banda-hitch"/>
+    <file name="chp_one_cover_v2.jpg" crc="4235176775" seo="true" ref="banda-hitch">
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+    </file>
+    <file name="eebs_pg001_updated.jpg" crc="448957747" seo="true" ref="banda-hitch">
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+    </file>
+    <file name="eebs_pg29alt.jpg" crc="510702156" seo="true" ref="banda-hitch">
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+    </file>
+    <file name="eebs_pg46alt.jpg" crc="4137605335" seo="true" ref="banda-hitch">
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+    </file>
+    <file name="eebs_pg53alt.jpg" crc="3847079834" seo="true" ref="banda-hitch">
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+    </file>
+    <file name="u1511.png" crc="4110463450" ref="microsoft-banners"/>
+    <file name="u1511-r.png" crc="3833096775" ref="microsoft-banners"/>
+    <file name="u1511-a.png" crc="134694467" ref="microsoft-banners"/>
+    <file name="u1506.png" crc="286989195" ref="microsoft-banners"/>
+    <file name="u1506-r.png" crc="4060234589" ref="microsoft-banners"/>
+    <file name="u1506-a.png" crc="4277106116" ref="microsoft-banners"/>
+    <file name="u1513.png" crc="3955522851" ref="microsoft-banners"/>
+    <file name="u1513-r.png" crc="190983502" ref="microsoft-banners"/>
+    <file name="u1513-a.png" crc="428308105" ref="microsoft-banners"/>
+    <file name="project-strategize_300x250.swf" crc="3994142088" ref="microsoft-banners"/>
+    <file name="visio-breakthrough_300x250.swf" crc="273812166" ref="microsoft-banners"/>
+    <file name="project-precision_300x250.swf" crc="375786694" ref="microsoft-banners"/>
+    <file name="u1604-13.png" crc="3772736427" ref="microsoft-banners"/>
+    <file name="300x600_visio_breakthrough.jpg" crc="45347594" seo="true" ref="microsoft-banners">
+      <caption webpage="microsoft-banners" alt=""/>
+      <caption webpage="microsoft-banners" alt=""/>
+      <caption webpage="microsoft-banners" alt=""/>
+      <caption webpage="microsoft-banners" alt=""/>
+      <caption webpage="microsoft-banners" alt=""/>
+    </file>
+    <file name="u1684.png" crc="4246430958" ref="levis-banners"/>
+    <file name="u1684-r.png" crc="3850420922" ref="levis-banners"/>
+    <file name="u1684-a.png" crc="303463506" ref="levis-banners"/>
+    <file name="u1688.png" crc="186753687" ref="levis-banners"/>
+    <file name="u1688-r.png" crc="3972479834" ref="levis-banners"/>
+    <file name="u1688-a.png" crc="4241195701" ref="levis-banners"/>
+    <file name="u1701-13.png" crc="207166181" ref="levis-banners"/>
+    <file name="300x600_4.png" crc="4246572218" seo="true" ref="levis-banners">
+      <caption webpage="levis-banners" alt=""/>
+      <caption webpage="levis-banners" alt=""/>
+      <caption webpage="levis-banners" alt=""/>
+      <caption webpage="levis-banners" alt=""/>
+      <caption webpage="levis-banners" alt=""/>
+    </file>
+    <file name="u1839.png" crc="61846762" ref="umpqua-bank-banners"/>
+    <file name="u1839-r.png" crc="359928377" ref="umpqua-bank-banners"/>
+    <file name="u1839-a.png" crc="36033786" ref="umpqua-bank-banners"/>
+    <file name="u1842.png" crc="786240" ref="umpqua-bank-banners"/>
+    <file name="u1842-r.png" crc="3945185033" ref="umpqua-bank-banners"/>
+    <file name="u1842-a.png" crc="3874432111" ref="umpqua-bank-banners"/>
+    <file name="ump-002_umpqua_ooh_muscle_300x250_r2.swf" crc="3889336578" ref="umpqua-bank-banners"/>
+    <file name="ump-002_umpqua_ooh_twice_300x250_r2.swf" crc="116359082" ref="umpqua-bank-banners"/>
+    <file name="u1856-13.png" crc="3990878978" ref="umpqua-bank-banners"/>
+    <file name="ump-002_umpqua_ooh_muscle_300x50_r2.jpg" crc="3830829460" seo="true" ref="umpqua-bank-banners">
+      <caption webpage="umpqua-bank-banners" alt=""/>
+      <caption webpage="umpqua-bank-banners" alt=""/>
+      <caption webpage="umpqua-bank-banners" alt=""/>
+      <caption webpage="umpqua-bank-banners" alt=""/>
+      <caption webpage="umpqua-bank-banners" alt=""/>
+    </file>
+    <file name="ump-002_umpqua_ooh_muscle_300x600_r2.jpg" crc="145716451" seo="true" ref="umpqua-bank-banners">
+      <caption webpage="umpqua-bank-banners" alt=""/>
+      <caption webpage="umpqua-bank-banners" alt=""/>
+      <caption webpage="umpqua-bank-banners" alt=""/>
+      <caption webpage="umpqua-bank-banners" alt=""/>
+      <caption webpage="umpqua-bank-banners" alt=""/>
+    </file>
+    <file name="u1949-13.png" crc="349230318" ref="truvia-banners"/>
+    <file name="tru_banner_300x50_static.jpg" crc="183904122" seo="true" ref="truvia-banners">
+      <caption webpage="truvia-bank-banners" alt=""/>
+      <caption webpage="truvia-bank-banners" alt=""/>
+      <caption webpage="truvia-bank-banners" alt=""/>
+      <caption webpage="truvia-banners" alt=""/>
+      <caption webpage="truvia-banners" alt=""/>
+      <caption webpage="truvia-banners" alt=""/>
+      <caption webpage="truvia-banners" alt=""/>
+      <caption webpage="truvia-banners" alt=""/>
+    </file>
+    <file name="tru_banner_300x600.jpg" crc="3931080868" seo="true" ref="truvia-banners">
+      <caption webpage="truvia-bank-banners" alt=""/>
+      <caption webpage="truvia-bank-banners" alt=""/>
+      <caption webpage="truvia-bank-banners" alt=""/>
+      <caption webpage="truvia-banners" alt=""/>
+      <caption webpage="truvia-banners" alt=""/>
+      <caption webpage="truvia-banners" alt=""/>
+      <caption webpage="truvia-banners" alt=""/>
+      <caption webpage="truvia-banners" alt=""/>
+    </file>
+    <file name="u2229-11.png" crc="303102990" ref="bigchampagne"/>
+    <file name="chp_two_cover_sm.jpg" crc="111780313" seo="true" ref="banda-hitch">
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+    </file>
+    <file name="u556_states2.png" crc="4289477103" ref="design--motion"/>
+    <file name="u556_states-r2.png" crc="4234548112" ref="design--motion"/>
+    <file name="u553_states2.png" crc="297423288" ref="design--motion"/>
+    <file name="u553_states-r2.png" crc="3817737468" ref="design--motion"/>
+    <file name="u1804_states2.png" crc="3785149307" ref="design--motion"/>
+    <file name="u1804_states-r2.png" crc="4038484438" ref="design--motion"/>
+    <file name="u1801_states2.png" crc="125677830" ref="design--motion"/>
+    <file name="u1801_states-r2.png" crc="178436408" ref="design--motion"/>
+    <file name="u626_states2.png" crc="4008607585" ref="design--motion"/>
+    <file name="u626_states-r2.png" crc="522766893" ref="design--motion"/>
+    <file name="u623_states2.png" crc="408795004" ref="design--motion"/>
+    <file name="u623_states-r2.png" crc="63586379" ref="design--motion"/>
+    <file name="u717-62.png" crc="362434217" ref="design--motion"/>
+    <file name="atmost3_cover1-crop-u36552.jpg" crc="4058838437" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="ee_temppromo-crop-u39222.jpg" crc="3789331896" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="katamarilovebutt-crop-u39822.jpg" crc="200800127" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaiapple-crop-u40422.jpg" crc="241122926" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaicactus-crop-u41022.jpg" crc="425594197" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaitomato-crop-u41622.jpg" crc="3794090968" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="cigar-crop-u38822.jpg" crc="3795664662" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="hairs2-crop-u39422.jpg" crc="436384255" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="nosleep2-crop-u40022.jpg" crc="107785286" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaiartichoke-crop-u40622.jpg" crc="3867544320" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaipineapple-crop-u41222.jpg" crc="4244534541" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="queenofhearts-crop-u41822.jpg" crc="3928217237" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="ee_forest_splash-crop-u39022.jpg" crc="200327232" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="hidinginthepine-crop-u39622.jpg" crc="374032978" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="peacock-crop-u40222.jpg" crc="4028893926" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaiasparagus-crop-u40822.jpg" crc="480952160" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaispinach-crop-u41422.jpg" crc="4119555319" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="rose_face-crop-u42022.jpg" crc="4134591480" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="u1766-112.png" crc="495526258" ref="banda-hitch"/>
+    <file name="u15112.png" crc="4110463450" ref="microsoft-banners"/>
+    <file name="u1511-r2.png" crc="3833096775" ref="microsoft-banners"/>
+    <file name="u1511-a2.png" crc="134694467" ref="microsoft-banners"/>
+    <file name="u15062.png" crc="286989195" ref="microsoft-banners"/>
+    <file name="u1506-r2.png" crc="4060234589" ref="microsoft-banners"/>
+    <file name="u1506-a2.png" crc="4277106116" ref="microsoft-banners"/>
+    <file name="u15132.png" crc="3955522851" ref="microsoft-banners"/>
+    <file name="u1513-r2.png" crc="190983502" ref="microsoft-banners"/>
+    <file name="u1513-a2.png" crc="428308105" ref="microsoft-banners"/>
+    <file name="u1604-132.png" crc="3772736427" ref="microsoft-banners"/>
+    <file name="u16842.png" crc="4246430958" ref="levis-banners"/>
+    <file name="u1684-r2.png" crc="3850420922" ref="levis-banners"/>
+    <file name="u1684-a2.png" crc="303463506" ref="levis-banners"/>
+    <file name="u16882.png" crc="186753687" ref="levis-banners"/>
+    <file name="u1688-r2.png" crc="3972479834" ref="levis-banners"/>
+    <file name="u1688-a2.png" crc="4241195701" ref="levis-banners"/>
+    <file name="u1701-132.png" crc="207166181" ref="levis-banners"/>
+    <file name="u18392.png" crc="4245049185" ref="umpqua-bank-banners"/>
+    <file name="u1839-r2.png" crc="3942480232" ref="umpqua-bank-banners"/>
+    <file name="u1839-a2.png" crc="228374541" ref="umpqua-bank-banners"/>
+    <file name="u18422.png" crc="3893299841" ref="umpqua-bank-banners"/>
+    <file name="u1842-r2.png" crc="3836902074" ref="umpqua-bank-banners"/>
+    <file name="u1842-a2.png" crc="3922829233" ref="umpqua-bank-banners"/>
+    <file name="u1856-132.png" crc="3990878978" ref="umpqua-bank-banners"/>
+    <file name="u1949-132.png" crc="349230318" ref="truvia-banners"/>
+    <file name="u2229-112.png" crc="303102990" ref="bigchampagne"/>
+    <file name="u553_states3.png" crc="145316941" ref="design--motion"/>
+    <file name="u553_states-r3.png" crc="272299598" ref="design--motion"/>
+    <file name="u556_states3.png" crc="46599265" ref="design--motion"/>
+    <file name="u556_states-r3.png" crc="61238189" ref="design--motion"/>
+    <file name="u1801_states3.png" crc="278272888" ref="design--motion"/>
+    <file name="u1801_states-r3.png" crc="406988584" ref="design--motion"/>
+    <file name="u1804_states3.png" crc="4118968927" ref="design--motion"/>
+    <file name="u1804_states-r3.png" crc="3796988422" ref="design--motion"/>
+    <file name="u626_states3.png" crc="391056746" ref="design--motion"/>
+    <file name="u626_states-r3.png" crc="4108271517" ref="design--motion"/>
+    <file name="u623_states3.png" crc="529204993" ref="design--motion"/>
+    <file name="u623_states-r3.png" crc="424539283" ref="design--motion"/>
+    <file name="u717-63.png" crc="149937165" ref="design--motion"/>
+    <file name="atmost3_cover1-crop-u36553.jpg" crc="4058838437" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="ee_temppromo-crop-u39223.jpg" crc="3789331896" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="katamarilovebutt-crop-u39823.jpg" crc="200800127" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaiapple-crop-u40423.jpg" crc="241122926" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaicactus-crop-u41023.jpg" crc="425594197" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaitomato-crop-u41623.jpg" crc="3794090968" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="cigar-crop-u38823.jpg" crc="3795664662" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="hairs2-crop-u39423.jpg" crc="436384255" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="nosleep2-crop-u40023.jpg" crc="107785286" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaiartichoke-crop-u40623.jpg" crc="3867544320" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaipineapple-crop-u41223.jpg" crc="4244534541" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="queenofhearts-crop-u41823.jpg" crc="3928217237" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="ee_forest_splash-crop-u39023.jpg" crc="200327232" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="hidinginthepine-crop-u39623.jpg" crc="374032978" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="peacock-crop-u40223.jpg" crc="4028893926" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaiasparagus-crop-u40823.jpg" crc="480952160" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaispinach-crop-u41423.jpg" crc="4119555319" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="rose_face-crop-u42023.jpg" crc="4134591480" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="u1766-113.png" crc="194439505" ref="banda-hitch"/>
+    <file name="u1604-133.png" crc="3772736427" ref="microsoft-banners"/>
+    <file name="u16843.png" crc="4246430958" ref="levis-banners"/>
+    <file name="u1684-r3.png" crc="3850420922" ref="levis-banners"/>
+    <file name="u1684-a3.png" crc="303463506" ref="levis-banners"/>
+    <file name="u16883.png" crc="186753687" ref="levis-banners"/>
+    <file name="u1688-r3.png" crc="3972479834" ref="levis-banners"/>
+    <file name="u1688-a3.png" crc="4241195701" ref="levis-banners"/>
+    <file name="u1701-133.png" crc="207166181" ref="levis-banners"/>
+    <file name="u18393.png" crc="4245049185" ref="umpqua-bank-banners"/>
+    <file name="u1839-r3.png" crc="3942480232" ref="umpqua-bank-banners"/>
+    <file name="u1839-a3.png" crc="228374541" ref="umpqua-bank-banners"/>
+    <file name="u18423.png" crc="3893299841" ref="umpqua-bank-banners"/>
+    <file name="u1842-r3.png" crc="3836902074" ref="umpqua-bank-banners"/>
+    <file name="u1842-a3.png" crc="3922829233" ref="umpqua-bank-banners"/>
+    <file name="u1856-133.png" crc="3990878978" ref="umpqua-bank-banners"/>
+    <file name="u1949-133.png" crc="349230318" ref="truvia-banners"/>
+    <file name="u2229-113.png" crc="4285907686" ref="bigchampagne"/>
+    <file name="icecream_cropped299x298.png" crc="4105745125" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icecream_cropped313x312.png" crc="4039007549" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icecreamdrip2-crop-u10842.png" crc="326359995" seo="true" ref="design--motion">
+      <caption webpage="design--motion" alt=""/>
+    </file>
+    <file name="icecreamdrip2-crop-u10843.png" crc="399710024" seo="true" ref="design--motion">
+      <caption webpage="design--motion" alt=""/>
+    </file>
+    <file name="plandaiapple-crop-u4036.jpg" crc="525888760" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaiartichoke-crop-u4056.jpg" crc="456947530" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaiasparagus-crop-u4076.jpg" crc="4196623246" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaicactus-crop-u4096.jpg" crc="4118747725" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaipineapple-crop-u4116.jpg" crc="33167961" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaispinach-crop-u4136.jpg" crc="379081897" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="atmost3_cover1331x452.jpg" crc="4227672571" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="hairs2331x454.jpg" crc="4109016414" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="hidinginthepine-crop-u3956.jpg" crc="3817815753" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="katamarilovebutt331x471.jpg" crc="278200360" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="nosleep2348x428.jpg" crc="4105736485" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="peacock331x439.jpg" crc="3772309240" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="queenofhearts331x436.jpg" crc="112083783" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="rose_face331x436.jpg" crc="3812766145" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="levis_bug-u12839-fr.png" crc="3813341547" ref="design--motion"/>
+    <file name="bigchampagne_bug-u12889-fr.png" crc="44527349" ref="design--motion"/>
+    <file name="levis_bug-u12839.png" crc="54914595" ref="design--motion"/>
+    <file name="bigchampagne_bug-u12889.png" crc="4159053902" ref="design--motion"/>
+    <file name="rangerx.jpg" crc="406637989" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="twisttree.jpg" crc="210511920" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="avocado2.jpg" crc="4050810253" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="battlin.jpg" crc="30044496" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="spaceman.jpg" crc="504607044" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="ffix_mages2.jpg" crc="149531195" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="avocado2-crop-u14744.jpg" crc="349719680" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="battlin131x120.jpg" crc="3786162688" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="spaceman-crop-u14844.jpg" crc="25332799" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="ffix_mages2-crop-u14886.jpg" crc="4245777785" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="rangerx-crop-u14660.jpg" crc="3950700889" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="twisttree-crop-u14702.jpg" crc="220019365" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="avocado2-crop-u147442.jpg" crc="349719680" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="ffix_mages2-crop-u148862.jpg" crc="4245777785" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="rangerx-crop-u146602.jpg" crc="3950700889" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="twisttree-crop-u147022.jpg" crc="220019365" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="spaceman-crop-u148442.jpg" crc="25332799" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="rangerx294x428.jpg" crc="4007103418" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="twisttree265x428.jpg" crc="287001573" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="avocado2331x354.jpg" crc="24471047" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="battlin331x303.jpg" crc="4084998862" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="spaceman310x428.jpg" crc="3919039977" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="ffix_mages2297x428.jpg" crc="240739690" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="avocado2-crop-u147443.jpg" crc="349719680" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="ffix_mages2-crop-u148863.jpg" crc="4245777785" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="rangerx-crop-u146603.jpg" crc="3950700889" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="battlin-crop-u14786.jpg" crc="3855216664" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="twisttree-crop-u147023.jpg" crc="220019365" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="spaceman-crop-u148443.jpg" crc="25332799" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="sprinklesbg2.png" crc="3919786204" ref="index:design--motion:illustration:other">
+      <caption webpage="other" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="microsoft-banners" alt=""/>
+      <caption webpage="microsoft-banners" alt=""/>
+      <caption webpage="microsoft-banners" alt=""/>
+      <caption webpage="microsoft-banners" alt=""/>
+      <caption webpage="microsoft-banners" alt=""/>
+      <caption webpage="levis-banners" alt=""/>
+      <caption webpage="levis-banners" alt=""/>
+      <caption webpage="levis-banners" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="banda-hitch" alt=""/>
+      <caption webpage="bigchampagne" alt=""/>
+      <caption webpage="bigchampagne" alt=""/>
+      <caption webpage="bigchampagne" alt=""/>
+      <caption webpage="bigchampagne" alt=""/>
+      <caption webpage="bigchampagne" alt=""/>
+      <caption webpage="truvia-banners" alt=""/>
+      <caption webpage="truvia-banners" alt=""/>
+      <caption webpage="truvia-banners" alt=""/>
+      <caption webpage="truvia-banners" alt=""/>
+      <caption webpage="truvia-banners" alt=""/>
+      <caption webpage="design--motion" alt=""/>
+      <caption webpage="design--motion" alt=""/>
+      <caption webpage="design--motion" alt=""/>
+      <caption webpage="design--motion" alt=""/>
+      <caption webpage="design--motion" alt=""/>
+    </file>
+    <file name="titledrip2.png" crc="4171816711" seo="true" ref="design--motion:illustration:other:levis-banners:truvia-banners:car-toys-banners:uhhc-banners:movies-anywhere-banners">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="movies-anywhere-banners" alt=""/>
+      <caption webpage="movies-anywhere-banners" alt=""/>
+      <caption webpage="movies-anywhere-banners" alt=""/>
+      <caption webpage="movies-anywhere-banners" alt=""/>
+      <caption webpage="movies-anywhere-banners" alt=""/>
+      <caption webpage="levis-banners" alt=""/>
+      <caption webpage="levis-banners" alt=""/>
+      <caption webpage="levis-banners" alt=""/>
+      <caption webpage="levis-banners" alt=""/>
+      <caption webpage="levis-banners" alt=""/>
+      <caption webpage="car-toys-banners" alt=""/>
+      <caption webpage="car-toys-banners" alt=""/>
+      <caption webpage="car-toys-banners" alt=""/>
+      <caption webpage="car-toys-banners" alt=""/>
+      <caption webpage="car-toys-banners" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="design--motion" alt=""/>
+      <caption webpage="design--motion" alt=""/>
+      <caption webpage="design--motion" alt=""/>
+      <caption webpage="design--motion" alt=""/>
+      <caption webpage="design--motion" alt=""/>
+      <caption webpage="truvia-banners" alt=""/>
+      <caption webpage="truvia-banners" alt=""/>
+      <caption webpage="truvia-banners" alt=""/>
+      <caption webpage="truvia-banners" alt=""/>
+      <caption webpage="truvia-banners" alt=""/>
+      <caption webpage="truvia-bank-banners" alt=""/>
+      <caption webpage="truvia-bank-banners" alt=""/>
+      <caption webpage="truvia-bank-banners" alt=""/>
+      <caption webpage="uhhc-banners" alt=""/>
+      <caption webpage="uhhc-banners" alt=""/>
+      <caption webpage="uhhc-banners" alt=""/>
+      <caption webpage="uhhc-banners" alt=""/>
+      <caption webpage="uhhc-banners" alt=""/>
+    </file>
+    <file name="u553_states4.png" crc="177342423" ref="design--motion"/>
+    <file name="u553_states-r4.png" crc="4057423471" ref="design--motion"/>
+    <file name="icecreamdrip2-crop-u10844.png" crc="3942527938" seo="true" ref="design--motion">
+      <caption webpage="design--motion" alt=""/>
+    </file>
+    <file name="u556_states4.png" crc="3885620525" ref="design--motion"/>
+    <file name="u556_states-r4.png" crc="4127261879" ref="design--motion"/>
+    <file name="u1801_states4.png" crc="138618847" ref="design--motion"/>
+    <file name="u1801_states-r4.png" crc="192771394" ref="design--motion"/>
+    <file name="u1804_states4.png" crc="3992312824" ref="design--motion"/>
+    <file name="u1804_states-r4.png" crc="134439394" ref="design--motion"/>
+    <file name="u623_states4.png" crc="470445004" ref="design--motion"/>
+    <file name="u623_states-r4.png" crc="56497564" ref="design--motion"/>
+    <file name="u626_states4.png" crc="447653893" ref="design--motion"/>
+    <file name="u626_states-r4.png" crc="4099363373" ref="design--motion"/>
+    <file name="u717-64.png" crc="493503699" ref="design--motion"/>
+    <file name="atmost3_cover1-crop-u36554.jpg" crc="28199126" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="ee_temppromo-crop-u39224.jpg" crc="289155141" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="avocado2-crop-u147444.jpg" crc="86237400" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="ffix_mages2-crop-u148864.jpg" crc="4044620492" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="katamarilovebutt-crop-u39824.jpg" crc="339803584" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaiapple-crop-u40424.jpg" crc="167504957" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaicactus-crop-u41024.jpg" crc="87403152" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaitomato-crop-u41624.jpg" crc="4111128550" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="cigar-crop-u38824.jpg" crc="103647667" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="rangerx-crop-u146604.jpg" crc="30040687" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="hairs2-crop-u39424.jpg" crc="4009071408" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="nosleep2-crop-u40024.jpg" crc="3825498791" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaiartichoke-crop-u40624.jpg" crc="4136308539" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaipineapple-crop-u41224.jpg" crc="95949234" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="queenofhearts-crop-u41824.jpg" crc="4092045687" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="ee_forest_splash-crop-u39024.jpg" crc="4139229728" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="twisttree-crop-u147024.jpg" crc="13961759" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="spaceman-crop-u148444.jpg" crc="4052207749" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="hidinginthepine-crop-u39624.jpg" crc="385581865" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="peacock-crop-u40224.jpg" crc="3890933271" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaiasparagus-crop-u40824.jpg" crc="179423671" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaispinach-crop-u41424.jpg" crc="4284810648" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="rose_face-crop-u42024.jpg" crc="3866023901" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="u1766-114.png" crc="107486210" ref="banda-hitch"/>
+    <file name="u1604-134.png" crc="3772736427" ref="microsoft-banners"/>
+    <file name="u16844.png" crc="4246430958" ref="levis-banners"/>
+    <file name="u1684-r4.png" crc="3850420922" ref="levis-banners"/>
+    <file name="u1684-a4.png" crc="303463506" ref="levis-banners"/>
+    <file name="u16884.png" crc="186753687" ref="levis-banners"/>
+    <file name="u1688-r4.png" crc="3972479834" ref="levis-banners"/>
+    <file name="u1688-a4.png" crc="4241195701" ref="levis-banners"/>
+    <file name="u1701-134.png" crc="207166181" ref="levis-banners"/>
+    <file name="u18394.png" crc="4245049185" ref="umpqua-bank-banners"/>
+    <file name="u1839-r4.png" crc="3942480232" ref="umpqua-bank-banners"/>
+    <file name="u1839-a4.png" crc="228374541" ref="umpqua-bank-banners"/>
+    <file name="u18424.png" crc="3893299841" ref="umpqua-bank-banners"/>
+    <file name="u1842-r4.png" crc="3836902074" ref="umpqua-bank-banners"/>
+    <file name="u1842-a4.png" crc="3922829233" ref="umpqua-bank-banners"/>
+    <file name="u1856-134.png" crc="3990878978" ref="umpqua-bank-banners"/>
+    <file name="u1949-134.png" crc="349230318" ref="truvia-banners"/>
+    <file name="u2229-114.png" crc="362689524" ref="bigchampagne"/>
+    <file name="icecream_cropped407x407.png" crc="4172170535" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="smalldrip.png" crc="3965391350" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u553_states5.png" crc="316575371" ref="design--motion"/>
+    <file name="u553_states-r5.png" crc="3959634779" ref="design--motion"/>
+    <file name="icecreamdrip2-crop-u10845.png" crc="326359995" seo="true" ref="design--motion">
+      <caption webpage="design--motion" alt=""/>
+    </file>
+    <file name="u556_states5.png" crc="360081663" ref="design--motion"/>
+    <file name="u556_states-r5.png" crc="4114188965" ref="design--motion"/>
+    <file name="u1801_states5.png" crc="70818530" ref="design--motion"/>
+    <file name="u1801_states-r5.png" crc="382443199" ref="design--motion"/>
+    <file name="u1804_states5.png" crc="3821300097" ref="design--motion"/>
+    <file name="u1804_states-r5.png" crc="370804264" ref="design--motion"/>
+    <file name="u623_states5.png" crc="330616514" ref="design--motion"/>
+    <file name="u623_states-r5.png" crc="4249869696" ref="design--motion"/>
+    <file name="u626_states5.png" crc="315069688" ref="design--motion"/>
+    <file name="u626_states-r5.png" crc="359547502" ref="design--motion"/>
+    <file name="u717-65.png" crc="3882773360" ref="design--motion"/>
+    <file name="nosleep2-crop-u3996.jpg" crc="4279141994" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaitomato-crop-u4156.jpg" crc="4280803366" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaiapple115x115.jpg" crc="377670685" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaicactus115x115.jpg" crc="4158796675" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="battlin115x105.jpg" crc="43213387" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaiartichoke115x115.jpg" crc="192731289" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaipineapple115x115.jpg" crc="4207105862" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaiasparagus115x115.jpg" crc="4075316156" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaispinach115x115.jpg" crc="4276600430" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaiapple-crop-u40362.jpg" crc="4226766854" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaiartichoke-crop-u40562.jpg" crc="4153755662" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaiasparagus-crop-u40762.jpg" crc="64673941" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaicactus-crop-u40962.jpg" crc="3788312772" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaipineapple-crop-u41162.jpg" crc="299232320" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaispinach-crop-u41362.jpg" crc="4014944021" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="atmost3_cover1-crop-u36555.jpg" crc="4172138406" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="ee_temppromo-crop-u39225.jpg" crc="364062485" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="avocado2-crop-u147445.jpg" crc="4144207736" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="ffix_mages2-crop-u148865.jpg" crc="4165472710" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="katamarilovebutt-crop-u39825.jpg" crc="433776732" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="plandaitomato-crop-u41625.jpg" crc="108828067" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="cigar-crop-u38825.jpg" crc="66712364" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="rangerx-crop-u146605.jpg" crc="141744105" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="hairs2-crop-u39425.jpg" crc="4241121386" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="nosleep2-crop-u40025.jpg" crc="41080958" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="queenofhearts-crop-u41825.jpg" crc="3851349901" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="ee_forest_splash-crop-u39025.jpg" crc="4176675700" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="twisttree-crop-u147025.jpg" crc="126902222" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="spaceman-crop-u148445.jpg" crc="3759568789" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="hidinginthepine-crop-u39625.jpg" crc="4059241331" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="peacock-crop-u40225.jpg" crc="152166844" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="rose_face-crop-u42025.jpg" crc="327374181" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="u1604-135.png" crc="3772736427" ref="microsoft-banners"/>
+    <file name="u16845.png" crc="4246430958" ref="levis-banners"/>
+    <file name="u1684-r5.png" crc="3850420922" ref="levis-banners"/>
+    <file name="u1684-a5.png" crc="303463506" ref="levis-banners"/>
+    <file name="u16885.png" crc="186753687" ref="levis-banners"/>
+    <file name="u1688-r5.png" crc="3972479834" ref="levis-banners"/>
+    <file name="u1688-a5.png" crc="4241195701" ref="levis-banners"/>
+    <file name="u1701-135.png" crc="207166181" ref="levis-banners"/>
+    <file name="u18395.png" crc="4245049185" ref="umpqua-bank-banners"/>
+    <file name="u1839-r5.png" crc="3942480232" ref="umpqua-bank-banners"/>
+    <file name="u1839-a5.png" crc="228374541" ref="umpqua-bank-banners"/>
+    <file name="u18425.png" crc="3893299841" ref="umpqua-bank-banners"/>
+    <file name="u1842-r5.png" crc="3836902074" ref="umpqua-bank-banners"/>
+    <file name="u1842-a5.png" crc="3922829233" ref="umpqua-bank-banners"/>
+    <file name="u1856-135.png" crc="3990878978" ref="umpqua-bank-banners"/>
+    <file name="u1949-135.png" crc="349230318" ref="truvia-banners"/>
+    <file name="u2229-115.png" crc="348489663" ref="bigchampagne"/>
+    <file name="icecream_cropped258x257.png" crc="91154781" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="levis_bug-u525-fr.jpg" crc="303954798" ref="design--motion"/>
+    <file name="bigchampagne_bug-u531-fr.jpg" crc="1804417" ref="design--motion"/>
+    <file name="levis_bug-u128392.png" crc="3875433897" ref="design--motion"/>
+    <file name="bigchampagne_bug-u128892.png" crc="70669783" ref="design--motion"/>
+    <file name="cigar332x429.jpg" crc="3975702032" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="ma_bug5.jpg" crc="11804925" ref="design--motion">
+      <caption webpage="design--motion" alt=""/>
+    </file>
+    <file name="uuhc_bug1.jpg" crc="395603790" ref="design--motion">
+      <caption webpage="design--motion" alt=""/>
+    </file>
+    <file name="uuhc_bug1-u1798-fr.jpg" crc="3864718243" ref="design--motion"/>
+    <file name="bandahitch3_bug-u528-fr.jpg" crc="4258312015" ref="design--motion"/>
+    <file name="uuhc_bug1-u12863-fr.png" crc="3758570771" ref="design--motion"/>
+    <file name="bandahitch3_bug-u12883-fr.png" crc="4041015215" ref="design--motion"/>
+    <file name="uuhc_bug1-u12863.png" crc="4233718935" ref="design--motion"/>
+    <file name="bandahitch3_bug-u12883.png" crc="3856112681" ref="design--motion"/>
+    <file name="uuhc_bug1-u128632.png" crc="45608000" ref="design--motion"/>
+    <file name="bandahitch3_bug-u128832.png" crc="3761904689" ref="design--motion"/>
+    <file name="u35912-13.png" crc="3766919860" ref="car-toys-banners"/>
+    <file name="ct1376_valuephone_300x50_bgguide_1.jpg" crc="3960067422" seo="true" ref="car-toys-banners">
+      <caption webpage="car-toys-banners" alt=""/>
+      <caption webpage="car-toys-banners" alt=""/>
+      <caption webpage="car-toys-banners" alt=""/>
+      <caption webpage="car-toys-banners" alt=""/>
+      <caption webpage="car-toys-banners" alt=""/>
+    </file>
+    <file name="cartoys_valuephone_300x600_static.jpg" crc="3899280931" seo="true" ref="car-toys-banners">
+      <caption webpage="car-toys-banners" alt=""/>
+      <caption webpage="car-toys-banners" alt=""/>
+      <caption webpage="car-toys-banners" alt=""/>
+      <caption webpage="car-toys-banners" alt=""/>
+      <caption webpage="car-toys-banners" alt=""/>
+    </file>
+    <file name="u35912-132.png" crc="3766919860" ref="car-toys-banners"/>
+    <file name="u35912-133.png" crc="3766919860" ref="car-toys-banners"/>
+    <file name="u35912-134.png" crc="3766919860" ref="car-toys-banners"/>
+    <file name="u35912-135.png" crc="3766919860" ref="car-toys-banners"/>
+    <file name="u36062-13.png" crc="447431424" ref="uhhc-banners"/>
+    <file name="uuhc1377_sliphappens_greenwood_320x50_backup.jpg" crc="4084076529" seo="true" ref="uhhc-banners">
+      <caption webpage="uhhc-banners" alt=""/>
+      <caption webpage="uhhc-banners" alt=""/>
+      <caption webpage="uhhc-banners" alt=""/>
+      <caption webpage="uhhc-banners" alt=""/>
+      <caption webpage="uhhc-banners" alt=""/>
+    </file>
+    <file name="uuhc1377_sliphappens_greenwood_300x600_backup.jpg" crc="4285595205" seo="true" ref="uhhc-banners">
+      <caption webpage="uhhc-banners" alt=""/>
+      <caption webpage="uhhc-banners" alt=""/>
+      <caption webpage="uhhc-banners" alt=""/>
+      <caption webpage="uhhc-banners" alt=""/>
+      <caption webpage="uhhc-banners" alt=""/>
+    </file>
+    <file name="u36062-132.png" crc="447431424" ref="uhhc-banners"/>
+    <file name="u36062-133.png" crc="447431424" ref="uhhc-banners"/>
+    <file name="u36062-134.png" crc="447431424" ref="uhhc-banners"/>
+    <file name="u36062-135.png" crc="447431424" ref="uhhc-banners"/>
+    <file name="u36170-13.png" crc="238987945" ref="movies-anywhere-banners"/>
+    <file name="backup_image-f8-display_x_na_f8_access_getstarted-2-300x50.jpg" crc="3924794704" seo="true" ref="movies-anywhere-banners">
+      <caption webpage="movies-anywhere-banners" alt=""/>
+      <caption webpage="movies-anywhere-banners" alt=""/>
+      <caption webpage="movies-anywhere-banners" alt=""/>
+      <caption webpage="movies-anywhere-banners" alt=""/>
+      <caption webpage="movies-anywhere-banners" alt=""/>
+    </file>
+    <file name="backup_image-f8-display_x_na_f8_access_getstarted-2-300x600.jpg" crc="64891872" seo="true" ref="movies-anywhere-banners">
+      <caption webpage="movies-anywhere-banners" alt=""/>
+      <caption webpage="movies-anywhere-banners" alt=""/>
+      <caption webpage="movies-anywhere-banners" alt=""/>
+      <caption webpage="movies-anywhere-banners" alt=""/>
+      <caption webpage="movies-anywhere-banners" alt=""/>
+    </file>
+    <file name="u36170-132.png" crc="238987945" ref="movies-anywhere-banners"/>
+    <file name="u36170-133.png" crc="238987945" ref="movies-anywhere-banners"/>
+    <file name="u36170-134.png" crc="238987945" ref="movies-anywhere-banners"/>
+    <file name="u36170-135.png" crc="238987945" ref="movies-anywhere-banners"/>
+    <file name="truvia_bug-u519-fr.jpg" crc="319748195" ref="design--motion"/>
+    <file name="ma_bug5-u1795-fr.jpg" crc="3957495843" ref="design--motion"/>
+    <file name="truvia_bug-u12829-fr.png" crc="344050287" ref="design--motion"/>
+    <file name="ma_bug5-u12851-fr.png" crc="335459219" ref="design--motion"/>
+    <file name="truvia_bug-u12829.png" crc="4090304726" ref="design--motion"/>
+    <file name="ma_bug5-u12851.png" crc="3790855594" ref="design--motion"/>
+    <file name="truvia_bug-u128292.png" crc="290911363" ref="design--motion"/>
+    <file name="ma_bug5-u128512.png" crc="49295772" ref="design--motion"/>
+    <file name="u4341-23.png" crc="4243243903" ref="other"/>
+    <file name="u4341-232.png" crc="4243243903" ref="other"/>
+    <file name="u4341-233.png" crc="455973846" ref="other"/>
+    <file name="u4341-234.png" crc="4091761128" ref="other"/>
+    <file name="engaget_retail_homepage_left.jpg" crc="29163341" seo="true" ref="engadget-windows-phone-comps">
+      <caption webpage="engadget-windows-phone-comps" alt=""/>
+      <caption webpage="engadget-windows-phone-comps" alt=""/>
+    </file>
+    <file name="u38491-11.png" crc="454143545" ref="engadget-windows-phone-comps"/>
+    <file name="engaget_retail_homepage05_right.jpg" crc="4049349347" seo="true" ref="engadget-windows-phone-comps">
+      <caption webpage="engadget-windows-phone-comps" alt=""/>
+      <caption webpage="engadget-windows-phone-comps" alt=""/>
+    </file>
+    <file name="u38491-112.png" crc="454143545" ref="engadget-windows-phone-comps"/>
+    <file name="engaget_retail_homepage_left438x249.jpg" crc="3842980733" seo="true" ref="engadget-windows-phone-comps">
+      <caption webpage="engadget-windows-phone-comps" alt=""/>
+    </file>
+    <file name="u38491-113.png" crc="4259085740" ref="engadget-windows-phone-comps"/>
+    <file name="engaget_retail_homepage05_right438x372.jpg" crc="4163150291" seo="true" ref="engadget-windows-phone-comps">
+      <caption webpage="engadget-windows-phone-comps" alt=""/>
+    </file>
+    <file name="u38491-114.png" crc="437877032" ref="engadget-windows-phone-comps"/>
+    <file name="engaget_retail_homepage_left334x190.jpg" crc="4290981550" seo="true" ref="engadget-windows-phone-comps">
+      <caption webpage="engadget-windows-phone-comps" alt=""/>
+    </file>
+    <file name="u38491-115.png" crc="414775724" ref="engadget-windows-phone-comps"/>
+    <file name="engaget_retail_homepage05_right336x284.jpg" crc="4002947331" seo="true" ref="engadget-windows-phone-comps">
+      <caption webpage="engadget-windows-phone-comps" alt=""/>
+    </file>
+    <file name="homepagestoryboard_final_700.jpg" crc="4000225380" seo="true" ref="safeco-hompage-ui">
+      <caption webpage="safeco-hompage-ui" alt=""/>
+      <caption webpage="safeco-hompage-ui" alt=""/>
+    </file>
+    <file name="u38671-11.png" crc="301695904" ref="safeco-hompage-ui"/>
+    <file name="homepagestoryboard2_final_700.jpg" crc="139952142" seo="true" ref="safeco-hompage-ui">
+      <caption webpage="safeco-hompage-ui" alt=""/>
+      <caption webpage="safeco-hompage-ui" alt=""/>
+    </file>
+    <file name="homepagestoryboard3_final_700.jpg" crc="4077629473" seo="true" ref="safeco-hompage-ui">
+      <caption webpage="safeco-hompage-ui" alt=""/>
+      <caption webpage="safeco-hompage-ui" alt=""/>
+    </file>
+    <file name="u38671-112.png" crc="301695904" ref="safeco-hompage-ui"/>
+    <file name="homepagestoryboard_final_700438x377.jpg" crc="3928399214" seo="true" ref="safeco-hompage-ui">
+      <caption webpage="safeco-hompage-ui" alt=""/>
+    </file>
+    <file name="u38671-113.png" crc="4095323160" ref="safeco-hompage-ui"/>
+    <file name="homepagestoryboard2_final_700438x377.jpg" crc="3807743760" seo="true" ref="safeco-hompage-ui">
+      <caption webpage="safeco-hompage-ui" alt=""/>
+    </file>
+    <file name="homepagestoryboard3_final_700441x379.jpg" crc="527946040" seo="true" ref="safeco-hompage-ui">
+      <caption webpage="safeco-hompage-ui" alt=""/>
+    </file>
+    <file name="homepagestoryboard_final_700374x322.jpg" crc="183611970" seo="true" ref="safeco-hompage-ui">
+      <caption webpage="safeco-hompage-ui" alt=""/>
+    </file>
+    <file name="u38671-114.png" crc="240063906" ref="safeco-hompage-ui"/>
+    <file name="homepagestoryboard2_final_700375x323.jpg" crc="4123281300" seo="true" ref="safeco-hompage-ui">
+      <caption webpage="safeco-hompage-ui" alt=""/>
+    </file>
+    <file name="homepagestoryboard3_final_700374x322.jpg" crc="4164694660" seo="true" ref="safeco-hompage-ui">
+      <caption webpage="safeco-hompage-ui" alt=""/>
+    </file>
+    <file name="homepagestoryboard_final_700334x288.jpg" crc="7237303" seo="true" ref="safeco-hompage-ui">
+      <caption webpage="safeco-hompage-ui" alt=""/>
+    </file>
+    <file name="u38671-115.png" crc="3802981214" ref="safeco-hompage-ui"/>
+    <file name="homepagestoryboard2_final_700334x288.jpg" crc="4287425271" seo="true" ref="safeco-hompage-ui">
+      <caption webpage="safeco-hompage-ui" alt=""/>
+    </file>
+    <file name="homepagestoryboard3_final_700334x288.jpg" crc="4115006601" seo="true" ref="safeco-hompage-ui">
+      <caption webpage="safeco-hompage-ui" alt=""/>
+    </file>
+    <file name="2019_comps_1.jpg" crc="4114316157" seo="true" ref="charterful">
+      <caption webpage="charterful" alt=""/>
+      <caption webpage="charterful" alt=""/>
+    </file>
+    <file name="u38883-11.png" crc="373958754" ref="charterful"/>
+    <file name="2019_comps_2.jpg" crc="30473499" seo="true" ref="charterful">
+      <caption webpage="charterful" alt=""/>
+      <caption webpage="charterful" alt=""/>
+    </file>
+    <file name="u38883-112.png" crc="373958754" ref="charterful"/>
+    <file name="u38883-113.png" crc="4116943544" ref="charterful"/>
+    <file name="u38883-114.png" crc="4125654556" ref="charterful"/>
+    <file name="u38883-115.png" crc="4031997453" ref="charterful"/>
+    <file name="bc_log_in_final1.jpg" crc="256215726" seo="true" ref="bigchampagne">
+      <caption webpage="bigchampagne" alt=""/>
+      <caption webpage="bigchampagne" alt=""/>
+    </file>
+    <file name="bc_blog2_final.jpg" crc="284224900" seo="true" ref="bigchampagne">
+      <caption webpage="bigchampagne" alt=""/>
+      <caption webpage="bigchampagne" alt=""/>
+    </file>
+    <file name="bc_homepage_final_update_07-23.jpg" crc="320537222" seo="true" ref="bigchampagne">
+      <caption webpage="bigchampagne" alt=""/>
+      <caption webpage="bigchampagne" alt=""/>
+    </file>
+    <file name="bc_blog2_final440x350.jpg" crc="4258592172" seo="true" ref="bigchampagne">
+      <caption webpage="bigchampagne" alt=""/>
+    </file>
+    <file name="bc_homepage_final_update_07-23440x350.jpg" crc="4244130993" seo="true" ref="bigchampagne">
+      <caption webpage="bigchampagne" alt=""/>
+    </file>
+    <file name="bc_log_in_final1375x298.jpg" crc="263762392" seo="true" ref="bigchampagne">
+      <caption webpage="bigchampagne" alt=""/>
+      <caption webpage="bigchampagne" alt=""/>
+    </file>
+    <file name="bc_blog2_final375x298.jpg" crc="170468693" seo="true" ref="bigchampagne">
+      <caption webpage="bigchampagne" alt=""/>
+      <caption webpage="bigchampagne" alt=""/>
+    </file>
+    <file name="bc_homepage_final_update_07-23375x298.jpg" crc="50196231" seo="true" ref="bigchampagne">
+      <caption webpage="bigchampagne" alt=""/>
+      <caption webpage="bigchampagne" alt=""/>
+    </file>
+    <file name="bc_log_in_final1440x329.jpg" crc="311391959" seo="true" ref="bigchampagne">
+      <caption webpage="bigchampagne" alt=""/>
+    </file>
+    <file name="engaget_retail_homepage_left374x212.jpg" crc="273113801" seo="true" ref="engadget-windows-phone-comps">
+      <caption webpage="engadget-windows-phone-comps" alt=""/>
+    </file>
+    <file name="engaget_retail_homepage05_right375x318.jpg" crc="4033088650" seo="true" ref="engadget-windows-phone-comps">
+      <caption webpage="engadget-windows-phone-comps" alt=""/>
+    </file>
+    <file name="2019_comps_1440x315.jpg" crc="141986855" seo="true" ref="charterful">
+      <caption webpage="charterful" alt=""/>
+    </file>
+    <file name="2019_comps_2440x315.jpg" crc="531752983" seo="true" ref="charterful">
+      <caption webpage="charterful" alt=""/>
+    </file>
+    <file name="2019_comps_1375x268.jpg" crc="323901366" seo="true" ref="charterful">
+      <caption webpage="charterful" alt=""/>
+      <caption webpage="charterful" alt=""/>
+    </file>
+    <file name="2019_comps_2375x268.jpg" crc="4035751664" seo="true" ref="charterful">
+      <caption webpage="charterful" alt=""/>
+      <caption webpage="charterful" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="466383517" seo="true" mt="1548384708817" redirect="true"/>
+  <file name="design--motion.html" crc="46302795" seo="true" mt="1548384708817" redirect="true"/>
+  <file name="illustration.html" crc="4281367471" seo="true" mt="1548384708817" redirect="true"/>
+  <file name="other.html" crc="512474521" seo="true" mt="1548384708817" redirect="true"/>
+  <file name="banda-hitch.html" crc="4027291351" seo="true" mt="1548384708817" redirect="true"/>
+  <file name="microsoft-banners.html" crc="3908251864" seo="true" mt="1548384708817" redirect="true"/>
+  <file name="levis-banners.html" crc="436853932" seo="true" mt="1548384708817" redirect="true"/>
+  <file name="umpqua-bank-banners.html" crc="8183589" seo="true" mt="1548384708817" redirect="true"/>
+  <file name="bigchampagne.html" crc="516651673" seo="true" mt="1548384708817" redirect="true"/>
+  <file name="truvia-banners.html" crc="4126516009" seo="true" mt="1548384708817" redirect="true"/>
+  <file name="car-toys-banners.html" crc="4134417659" seo="true" mt="1548384708817" redirect="true"/>
+  <file name="uhhc-banners.html" crc="3894605019" seo="true" mt="1548384708817" redirect="true"/>
+  <file name="movies-anywhere-banners.html" crc="455654173" seo="true" mt="1548384708817" redirect="true"/>
+  <file name="engadget-windows-phone-comps.html" crc="54298275" seo="true" mt="1548384708817" redirect="true"/>
+  <file name="safeco-hompage-ui.html" crc="225649429" seo="true" mt="1548384708817" redirect="true"/>
+  <file name="charterful.html" crc="4251620468" seo="true" mt="1548384708817" redirect="true"/>
+  <site>
+    <asset filename="_tru_banners_300x250_090413_v1_cta1_r9.swf" muse_href="upload:U1975"/>
+    <asset filename="_tru_banners_300x250_090413_v1_cta2_r9.swf" muse_href="upload:U1977"/>
+    <asset filename="jacobpaulferguson_resume_2018.pdf" muse_href="upload:U6620"/>
+    <asset filename="project-strategize_300x250.mp4" muse_href="upload:U28039"/>
+    <paragraphStyle className="normal_text" uid="U49"/>
+    <textLinkStyle className="footerLinks" uid="U6618"/>
+    <textLinkStyle className="projectNav" uid="U25270"/>
+    <nestedListStyle className="nls-None" uid="U52"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Home" filename="index.html" muse_href="page:U93" master="U72">
+        <breakpoint uid="U12540" maxwidth="375" minwidth="0" squishy="false"/>
+        <breakpoint uid="U12474" maxwidth="480" minwidth="376" squishy="true"/>
+        <breakpoint uid="U83" maxwidth="960" minwidth="481" squishy="false"/>
+      </page>
+      <masterPage name="A-Master" master="U62" uid="U72">
+        <breakpoint uid="U6598" maxwidth="375" minwidth="0" squishy="false"/>
+        <breakpoint uid="U21057" maxwidth="414" minwidth="376" squishy="true"/>
+        <breakpoint uid="U4443" maxwidth="480" minwidth="415" squishy="true"/>
+        <breakpoint uid="U73" maxwidth="960" minwidth="481" squishy="true"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="960" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Design / Motion" filename="design--motion.html" muse_href="page:U518" master="U72">
+        <breakpoint uid="U12924" maxwidth="375" minwidth="0" squishy="true"/>
+        <breakpoint uid="U21167" maxwidth="414" minwidth="376" squishy="true"/>
+        <breakpoint uid="U12760" maxwidth="480" minwidth="415" squishy="true"/>
+        <breakpoint uid="U22792" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U508" maxwidth="960" minwidth="769" squishy="true"/>
+      </page>
+      <page name="Illustration" filename="illustration.html" muse_href="page:U570" master="U72">
+        <breakpoint uid="U13073" maxwidth="375" minwidth="0" squishy="true"/>
+        <breakpoint uid="U21397" maxwidth="414" minwidth="376" squishy="true"/>
+        <breakpoint uid="U6361" maxwidth="480" minwidth="415" squishy="true"/>
+        <breakpoint uid="U23822" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U560" maxwidth="960" minwidth="769" squishy="true"/>
+      </page>
+      <page name="Other" filename="other.html" muse_href="page:U582" master="U72">
+        <breakpoint uid="U13372" maxwidth="375" minwidth="0" squishy="true"/>
+        <breakpoint uid="U21812" maxwidth="414" minwidth="376" squishy="true"/>
+        <breakpoint uid="U5506" maxwidth="480" minwidth="415" squishy="true"/>
+        <breakpoint uid="U572" maxwidth="960" minwidth="481" squishy="true"/>
+      </page>
+      <page name="Banda Hitch" filename="banda-hitch.html" muse_href="page:U640" master="U72">
+        <breakpoint uid="U12606" maxwidth="375" minwidth="0" squishy="false"/>
+        <breakpoint uid="U21232" maxwidth="414" minwidth="376" squishy="true"/>
+        <breakpoint uid="U5179" maxwidth="480" minwidth="415" squishy="true"/>
+        <breakpoint uid="U630" maxwidth="960" minwidth="481" squishy="true"/>
+      </page>
+      <page name="Microsoft Banners" filename="microsoft-banners.html" muse_href="page:U667" master="U72">
+        <breakpoint uid="U16193" maxwidth="375" minwidth="0" squishy="true"/>
+        <breakpoint uid="U5955" maxwidth="480" minwidth="376" squishy="true"/>
+        <breakpoint uid="U24983" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U657" maxwidth="960" minwidth="769" squishy="true"/>
+      </page>
+      <page name="Levis Banners" filename="levis-banners.html" muse_href="page:U1739" master="U72">
+        <breakpoint uid="U16061" maxwidth="375" minwidth="0" squishy="true"/>
+        <breakpoint uid="U6490" maxwidth="480" minwidth="376" squishy="true"/>
+        <breakpoint uid="U24871" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U1702" maxwidth="960" minwidth="769" squishy="true"/>
+      </page>
+      <page name="Umpqua Bank Banners" filename="umpqua-bank-banners.html" muse_href="page:U1892" master="U72">
+        <breakpoint uid="U16268" maxwidth="375" minwidth="0" squishy="true"/>
+        <breakpoint uid="U25061" maxwidth="768" minwidth="376" squishy="true"/>
+        <breakpoint uid="U1857" maxwidth="960" minwidth="769" squishy="true"/>
+      </page>
+      <page name="Truvia Banners" filename="truvia-banners.html" muse_href="page:U1972" master="U72">
+        <breakpoint uid="U16157" maxwidth="375" minwidth="0" squishy="true"/>
+        <breakpoint uid="U5845" maxwidth="480" minwidth="376" squishy="true"/>
+        <breakpoint uid="U24945" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U1956" maxwidth="960" minwidth="769" squishy="true"/>
+      </page>
+      <page name="BigChampagne" filename="bigchampagne.html" muse_href="page:U2008" master="U72">
+        <breakpoint uid="U12997" maxwidth="375" minwidth="0" squishy="true"/>
+        <breakpoint uid="U21305" maxwidth="414" minwidth="376" squishy="true"/>
+        <breakpoint uid="U6149" maxwidth="480" minwidth="415" squishy="true"/>
+        <breakpoint uid="U24505" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U1998" maxwidth="960" minwidth="769" squishy="true"/>
+      </page>
+      <page name="Car Toys Banners" filename="car-toys-banners.html" muse_href="page:U35988" master="U72">
+        <breakpoint uid="U35969" maxwidth="375" minwidth="0" squishy="true"/>
+        <breakpoint uid="U35938" maxwidth="480" minwidth="376" squishy="true"/>
+        <breakpoint uid="U35923" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U35954" maxwidth="960" minwidth="769" squishy="true"/>
+      </page>
+      <page name="UHHC Banners" filename="uhhc-banners.html" muse_href="page:U36116" master="U72">
+        <breakpoint uid="U36080" maxwidth="375" minwidth="0" squishy="true"/>
+        <breakpoint uid="U36065" maxwidth="480" minwidth="376" squishy="true"/>
+        <breakpoint uid="U36039" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U36097" maxwidth="960" minwidth="769" squishy="true"/>
+      </page>
+      <page name="Movies Anywhere Banners" filename="movies-anywhere-banners.html" muse_href="page:U36207" master="U72">
+        <breakpoint uid="U36188" maxwidth="375" minwidth="0" squishy="true"/>
+        <breakpoint uid="U36130" maxwidth="480" minwidth="376" squishy="true"/>
+        <breakpoint uid="U36145" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U36173" maxwidth="960" minwidth="769" squishy="true"/>
+      </page>
+      <page name="Engadget Windows Phone Comps" filename="engadget-windows-phone-comps.html" muse_href="page:U38506" master="U72">
+        <breakpoint uid="U38459" maxwidth="375" minwidth="0" squishy="true"/>
+        <breakpoint uid="U38428" maxwidth="414" minwidth="376" squishy="true"/>
+        <breakpoint uid="U38474" maxwidth="480" minwidth="415" squishy="true"/>
+        <breakpoint uid="U38413" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U38444" maxwidth="960" minwidth="769" squishy="true"/>
+      </page>
+      <page name="Safeco Hompage UI" filename="safeco-hompage-ui.html" muse_href="page:U38723" master="U72">
+        <breakpoint uid="U38654" maxwidth="375" minwidth="0" squishy="true"/>
+        <breakpoint uid="U38687" maxwidth="414" minwidth="376" squishy="true"/>
+        <breakpoint uid="U38674" maxwidth="480" minwidth="415" squishy="true"/>
+        <breakpoint uid="U38709" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U38698" maxwidth="960" minwidth="769" squishy="true"/>
+      </page>
+      <page name="Charterful" filename="charterful.html" muse_href="page:U38960" master="U72">
+        <breakpoint uid="U38902" maxwidth="375" minwidth="0" squishy="true"/>
+        <breakpoint uid="U38888" maxwidth="414" minwidth="376" squishy="true"/>
+        <breakpoint uid="U38915" maxwidth="480" minwidth="415" squishy="true"/>
+        <breakpoint uid="U38928" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U38941" maxwidth="960" minwidth="769" squishy="true"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
